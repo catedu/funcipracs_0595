@@ -1,3 +1,3 @@
-# Funcionariado en prácticas de Aragón (0595) {#funcionariado-en-pr-cticas-de-arag-n-0595}
+# Curso para el funcionariado en prácticas de Aragón. {#curso-para-el-funcionariado-en-pr-cticas-de-arag-n} Cuerpo de Profesores de Artes Plásticas y Diseño.
 
-Formación inicial en didáctica de las artes y el diseño
+![](/images/95bd473e-e7df-48cc-a3c2-65178c0d60c0.jpeg

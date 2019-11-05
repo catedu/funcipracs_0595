@@ -1,8 +1,9 @@
 # Summary
 
+* [Funcionariado en prácticas de Aragón (0595)](README.md)
+
 ## Módulo 1 - Didáctica específica
 
-* [Funcionariado en prácticas de Aragón (0595)](README.md)
 * [¿Qué pretendemos lograr en nuestros estudiantes?](que_pretendemos_lograr_en_nuestros_estudiantes.md)
 * [Conocemos la materia prima con la que trabajamos: el cerebro de nuestros alumnos](conocemos_la_materia_prima_con_la_que_trabajamos_e.md)
 * [Añadimos la motivación a la receta](anadimos_la_motivacion_a_la_receta.md)
