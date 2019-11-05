@@ -2,7 +2,7 @@
 
 Entre las metodologías activas destacan dos con un nombre (y otros muchos aspectos) parecidos: el Aprendizaje Basado en Problemas (ABP) y el Aprendizaje Basado en Proyectos (¡ABP también!). En la Figura 3 podemos ver algunas de las diferencias entre estos dos tipos de aprendizaje. En este [enlace](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-pD43AuUo80&sa=D&ust=1572945444164000) puedes ver un vídeo sobre Aprendizaje Basado en Proyectos y en este [otro](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_ChgOgarIlg&sa=D&ust=1572945444165000) un vídeo sobre Aprendizaje Basado en Problemas.
 
-![](images/image3.png)
+![](/images/image3.png)
 
 Figura 3\. Similitudes y diferencias entre Aprendizaje Basado en Proyectos y Aprendizaje Basado en Problemas.
 
