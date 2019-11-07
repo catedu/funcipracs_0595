@@ -22,5 +22,5 @@ Este **aprendizaje significativo se logra** cuando el alumnado realiza un proces
 
 Todos sabemos que en educación no hay recetas universales \(¡ojalá fuese así!\). Y aunque las hubiese, siguiendo el símil de la cocina, somos conscientes que a cocinar se aprende cocinando. No obstante, sí que hay una serie de cuestiones que nos conviene saber para poder para aprender a elaborar esa receta personal que logrará un aprendizaje significativo en nuestros estudiantes.
 
-[^1]:
+[^1]: El aprendizaje significativo forma parte de una visión constructivista del aprendizaje (el aprendiz tiene un papel activo en la construcción del conocimiento). Implica pasar de una educación centrada en el profesor a una enseñanza centrada en el alumno.
 
