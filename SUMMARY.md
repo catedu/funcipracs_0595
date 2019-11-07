@@ -17,7 +17,7 @@
 * [Ponemos la clase “patas arriba”](ponemos_la_clase_patas_arriba.md)
 * [La parte más importante: tú mismo](la_parte_mas_importante_tu_mismo.md)
 * [Referencias](referencias.md)
-* Créditos M1
+* [Créditos M1](creditos-m1.md)
 
 ## MÓDULO 2: Documentación educativa.
 
