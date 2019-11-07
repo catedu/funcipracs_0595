@@ -11,7 +11,8 @@ Tabla 1. Elementos del aprendizaje cooperativo de acuerdo con Johnson y Johnson
 | **Enseñanza a los estudiantes de algunas habilidades interpersonales y grupales** | Los estudiantes tienen que dominar una serie de destrezas interpersonales y de pequeño grupos, como saber liderar de forma eficaz, tomar decisiones, construir confianza, etc. Jonhson y Jonhson \(2014\) remarcan que estas habilidades han de enseñarse con la misma determinación y precisión que las competencias académicas. |
 | **Evaluación grupal** | Supone un análisis grupal de la consecución de objetivos y de la eficacia de las relaciones grupales. |
 
-. La literatura que avala la eficacia del aprendizaje cooperativo es abrumadora. En este sentido, se han realizado diferentes meta-análisis[^3] centrados en diferentes etapas educativas y/o diferentes variables, encontrando generalmente efectos positivos del aprendizaje cooperativo \(para una revisión ver por ejemplo \(Kyndt et al., 2013\).
+La literatura que avala la eficacia del aprendizaje cooperativo es abrumadora. En este sentido, se han realizado diferentes meta-análisis[^3] centrados en diferentes etapas educativas y/o diferentes variables, encontrando generalmente efectos positivos del aprendizaje cooperativo \(para una revisión ver por ejemplo \(Kyndt et al., 2013\).
 
-[^3]:
+[^3]: Un meta-análisis es un análisis estadístico en el que se analizan de forma conjunta los resultados de muchas otras publicaciones científicas, proporcionando información cuantitativa sobre la eficacia (o falta de ella) de un determinado método o tratamiento.
+
 
