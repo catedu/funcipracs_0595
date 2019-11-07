@@ -5,7 +5,8 @@
 ## Módulo 1 - Didáctica específica
 
 * [¿Qué pretendemos lograr en nuestro alumnado?](que_pretendemos_lograr_en_nuestros_estudiantes.md)
-* [Conocemos la materia prima con la que trabajamos: el cerebro de nuestros alumnos](conocemos_la_materia_prima_con_la_que_trabajamos_e.md)
+* [El cerebro: conocer la materia prima con la que trabajamos](conocemos_la_materia_prima_con_la_que_trabajamos_e.md)
+  * [El aprendizaje significativo](conocemos_la_materia_prima_con_la_que_trabajamos_e/el-aprendizaje-significativo.md)
 * [Añadimos la motivación a la receta](anadimos_la_motivacion_a_la_receta.md)
 * [Añadimos la evaluación a la receta](anadimos_la_evaluacion_a_la_receta.md)
 * [Aprender haciendo](aprender_haciendo/README.md)
