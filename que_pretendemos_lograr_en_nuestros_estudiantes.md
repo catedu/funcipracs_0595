@@ -8,7 +8,7 @@ Seguramente una de las primeras cosas que se te ha venido a la mente es “que a
 
 Vayamos un poco más allá: seguramente no queremos que simplemente recuerden datos \(en el mejor de los casos\), además queremos que entiendan la información que se les está presentando, que sean capaces de aplicar lo aprendido, y que incluso vayan un poco más allá y analicen y evalúen una determinada teoría o producto en función de lo que han aprendido.
 
-Y, por supuesto, en ámbitos aplicados como son los del arte y diseño, queremos que den un paso más y sean capaces de crear un producto original. Es decir, no sólo quiero que mi alumnado conozca la teoría del color, quiero que la apliquen adecuadamente en el diseño un buen cartel publicitario. En definitiva, queremos que el alumnado **alcance la posición más alta de la taxonomía de Bloom **que puedes ver en siguiente  figura.
+Y, por supuesto, en ámbitos aplicados como son los del arte y diseño, queremos que den un paso más y sean capaces de crear un producto original. Es decir, no sólo quiero que mi alumnado conozca la teoría del color, quiero que la aplique adecuadamente en el diseño un buen cartel publicitario. En definitiva, queremos que el alumnado **alcance la posición más alta de la taxonomía de Bloom **que puedes ver en siguiente  figura.
 
 .
 
