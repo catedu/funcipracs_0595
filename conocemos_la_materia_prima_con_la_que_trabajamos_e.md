@@ -1,6 +1,6 @@
 # **El cerebro: conocer la materia prima con la que trabajamos** {#conocemos-la-materia-prima-con-la-que-trabajamos-el-cerebro-de-nuestros-alumnos}
 
-Un primer paso para lograr ese aprendizaje significativo es que conozcamos muy bien cómo funciona la “caja negra” de nuestro alumnado, es decir, su cerebro: cómo aprende, cómo retiene lo aprendido y cómo podemos lograr que tengan motivación para todo esto.
+Un primer paso para lograr ese aprendizaje significativo es que conozcamos muy bien cómo funciona la “caja negra” de nuestro alumnado, es decir, su cerebro: cómo aprende, cómo retiene lo aprendido y cómo podemos lograr que tenga motivación para todo esto.
 
 Aunque no es sencillo, voy a intentar explicar brevemente esto que acabo de mencionar. El objetivo no es aburrirte con teorías y modelos, sino que **puedas juzgar por tí mismo en el futuro si una nueva metodología docente puede ser efectiva en base a lo que sabemos del aprendizaje humano. **De hecho, probablemente el problema hoy en día no radique en que no disponemos de ninguna alternativa a la famosa clase magistral, sino que disponemos de tantas que no sabemos por qué decidirnos \(ver apartado “[Aprender haciendo](aprender_haciendo/README.md)”\). Espero que con estos básicos conocimientos sobre el funcionamiento de la mente humana pueda ayudarte a decidir en el futuro.
 
