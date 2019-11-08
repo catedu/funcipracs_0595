@@ -8,7 +8,7 @@ Recordemos a nuestro alumnado intentando recordar las instrucciones para solucio
 | --- |
 
 
-| Regla nº2. Refresca o activa los conocimientos previos del alumno. |
+| Regla nº2. Refresca o activa los conocimientos previos del alumnado. |
 | --- |
 
 
